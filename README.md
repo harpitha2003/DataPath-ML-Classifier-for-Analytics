@@ -1,4 +1,4 @@
-# Trained_Model_Pipeline
+# Random Forest Classifier Pipeline
 A machine learning project using Random Forest to classify data and generate predictions. Includes a trained model and performance evaluation metrics.
 
 # ML-Driven Data Classifier: Random Forest Project
